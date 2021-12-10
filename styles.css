@@ -1,0 +1,65 @@
+main{
+    margin-left: 35px;
+    margin-top: 11px;
+}
+
+header{
+    background-image: url("gallery/headerimg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 95%;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header h1{
+    text-align: left;
+    padding: 15px;
+    font-size: 36px;
+    color: white;
+    
+}
+
+header h2{
+    text-align: left;
+    font-size: 24px;
+    color: white;
+}
+
+ul{
+    margin-bottom: 25px;
+}
+
+
+#hotels{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
+  
+
+
+
+#hotelName{
+    display: inline;
+    color: green;
+    letter-spacing: 1px;
+    padding: 5px;
+}
+
+#picture {
+   width: 500px;
+   border: 2px solid green;
+}
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    background-color: lightblue;
+    padding: 3px;
+    margin-top: 3px;
+    margin-bottom: 0;
+}

@@ -1,0 +1,31 @@
+{
+    "hotels": [
+        {
+            "name": "Marriott",
+            "rooms": "50",
+            "gym" : "Yes",
+            "roomTypes": ["King", " Queen", " Double", " Single"],
+            "address": "1580 N Freedom Blvd, Provo, UT 84604",
+            "picture": "gallery/2021-11-14.jpeg" 
+        },
+
+        {
+            "name": "Sheraton",
+            "rooms": "75",
+            "gym" : "No",
+            "roomTypes": ["Queen", " Double", " Single"],
+            "address": "1895 Sidewinder Dr, Park City, UT 84060",
+            "picture": "gallery/Firepits Sheraton PC.webp"
+        },
+
+        {
+            "name": "Hilton",
+            "rooms": "103",
+            "gym" : "Yes",
+            "roomTypes": ["King", " Queen", " Double", " Single"],
+            "address": "851 W 1250 S, Orem, UT 84058",
+            "picture": "gallery/hilton.webp"
+        }
+    
+    ]
+}
